@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Hi 👋, I'm Bartek</h1>
+<h3 align="center">A passionate frontend developer.</h3>
 
-## Getting Started
+<p align="left"> <img src="https://cdn.dribbble.com/users/3323541/screenshots/7616640/media/17b329019ab1f90fe2b9630017b962b8.gif" alt="landscape.gif" />
 
-First, run the development server:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bbwebdevelop&label=Profile%20views&color=0e75b6&style=flat" alt="bbwebdevelop" /> </p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- 🔭 I’m currently working on [portfolio24](https://www.bbwebdevelop.pl)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 🌱 I’m currently learning **React.js and Three.js**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 🤝 I’m looking for help with [How it's done??](https://monopo.london)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- 👨‍💻 All of my projects are available at [https://www.bbwebdevelop.pl](https://www.bbwebdevelop.pl)
 
-## Learn More
+- 📫 How to reach me **bbwebdevelop@gmail.com**
 
-To learn more about Next.js, take a look at the following resources:
+- ⚡ Fun fact **I can recite the first 100 digits of pi while balancing a spoon on my nose.**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Deploy on Vercel
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bbwebdevelop&show_icons=true&locale=en&layout=compact" alt="bbwebdevelop" /></p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bbwebdevelop&show_icons=true&locale=en" alt="bbwebdevelop" /></p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bbwebdevelop&" alt="bbwebdevelop" /></p>
